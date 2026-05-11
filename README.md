@@ -1,42 +1,44 @@
-# Python Developer
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Helix](https://img.shields.io/badge/Helix-%232B7A78?style=for-the-badge&logo=code&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-%23008000?style=for-the-badge&logo=tmux&logoColor=white)
+# 🐍 **David Humberto Pérez Zúniga** 🐍
+### Backend Developer | Python Developer | Arquitectura Limpia · Entusiasta del Terminal · Pythonista
 
-## My stats
+<img src="https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-React%20%2F%20TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/OS-Debian%20%2F%20Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 
-<p align="center">
-  <a href="https://github.com/destripador2000">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=destripador2000&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a>
- <img
-  height="500"
-  width="300"
-   align="top"
-  alt="languages graph"
-  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=destripador2000&theme=transparent"
-/>   
-  </a> 
-<p>
+</div>
 
-## Current Projects
+<br>
 
-- 🛒 **[Amazon Clone](https://github.com/destripador2000/ecommerce-store)** - Desarrollo de e-commerce 
-- 📇 **[Portafolio Personal](https://github.com/destripador2000/Davids-Folio)** - Sitio web con backend en FastAPI
-- 🎮 **[CodeEnglish](https://github.com/destripador2000/CodeEnglish)** - Sitio web para estudiar inglés 
+#### 💻 Mi stack y herramientas:
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-2b2b2b?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/Postgres-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-2b2b2b?style=for-the-badge&logo=sqlite&logoColor=07405e)
+![Swagger](https://img.shields.io/badge/Swagger-2b2b2b?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-2b2b2b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-2b2b2b?style=for-the-badge&logo=vite&logoColor=646CFF)
+![HTML5](https://img.shields.io/badge/HTML5-2b2b2b?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-2b2b2b?style=for-the-badge&logo=css3&logoColor=1572B6)
+<br>
+![Git](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=F05032)
+![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Helix](https://img.shields.io/badge/Helix_Editor-2b2b2b?style=for-the-badge)
 
-## Contact me
+
+## 🛠️ Proyectos actuales
+
+- 🛒 **[Iron Gear](https://github.com/destripador2000/Iron-Gear)** - Plataforma e-commerce completa con arquitectura limpia, flujos transaccionales y seguridad JWT. (FastAPI, PostgreSQL, React).
+- 📇 **[Portafolio Personal](https://github.com/destripador2000/Davids-Folio)** - Dashboard personal desarrollado con backend en FastAPI.
+- 🎮 **[CodeEnglish](https://github.com/destripador2000/CodeEnglish)** - Sitio web diseñado para el estudio y práctica del idioma inglés.
+- 👨‍⚖️ **[LexConnect](https://github.com/destripador2000/LexConnect)** - Plataforma para encontrar a un abogado según tus necesidades.
+
+---
+
+## 📩 Contacto
 
 <a href="mailto:davidhumbertop503@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -44,5 +46,17 @@
 <a href="https://www.linkedin.com/in/humberto-zuniga-b42140386?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  </p>
+
+---
+
+## 📊 My Stats
+
+<p align="center">
+  <a href="https://github.com/destripador2000">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=destripador2000&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
+
+<div align="center" style="margin-top: 30px;">  
+⚡ <code>print("Gracias por visitar mi perfil")</code> ⚡ 
+</div>
