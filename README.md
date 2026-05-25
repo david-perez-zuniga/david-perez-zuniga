@@ -52,7 +52,7 @@
 ## 📊 My Stats
 
 <p align="center">
-  <a href="https://github.com/destripador2000">
+  <a href="https://github.com/david-perez-zuniga">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=destripador2000&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
