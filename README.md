@@ -23,6 +23,7 @@
 ![Vite](https://img.shields.io/badge/Vite-2b2b2b?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![HTML5](https://img.shields.io/badge/HTML5-2b2b2b?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-2b2b2b?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Astro](https://img.shields.io/badge/astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=F05032)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
