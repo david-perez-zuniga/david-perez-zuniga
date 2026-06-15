@@ -9,9 +9,10 @@
 
 </div>
 
+<div align="center">
+
 <br>
 
-#### 💻 Mi stack y herramientas:
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=3776AB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2b2b2b?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-2b2b2b?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -29,6 +30,15 @@
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Helix](https://img.shields.io/badge/Helix_Editor-2b2b2b?style=for-the-badge)
 
+</div>
+
+## My Stats
+
+<p align="center">
+  <a href="https://github.com/david-perez-zuniga">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=david-perez-zuniga&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## 🛠️ Proyectos actuales
 
@@ -47,17 +57,3 @@
 <a href="https://www.linkedin.com/in/humberto-zuniga-b42140386?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
----
-
-## 📊 My Stats
-
-<p align="center">
-  <a href="https://github.com/david-perez-zuniga">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=david-perez-zuniga&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<div align="center" style="margin-top: 30px;">  
-⚡ <code>print("Gracias por visitar mi perfil")</code> ⚡ 
-</div>
