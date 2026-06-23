@@ -36,7 +36,11 @@
 
 <p align="center">
   <a href="https://github.com/david-perez-zuniga">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-perez-zuniga&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-perez-zuniga&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/david-perez-zuniga">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-perez-zuniga&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
 </p>
 
