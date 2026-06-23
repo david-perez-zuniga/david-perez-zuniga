@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/david-perez-zuniga">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=david-perez-zuniga&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-perez-zuniga&theme=dark&hide_border=true" />
   </a>
 </p>
 
