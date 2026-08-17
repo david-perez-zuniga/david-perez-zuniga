@@ -44,7 +44,7 @@
 ## 🛠️ Proyectos actuales
 
 - 🛒 **[Iron Gear](https://github.com/david-perez-zuniga/Iron-Gear)** - Plataforma e-commerce completa con arquitectura limpia, flujos transaccionales y seguridad JWT. (FastAPI, PostgreSQL, React).
-- 📇 **[Portafolio Personal](https://github.com/david-perez-zuniga/Davids-Folio)** - Dashboard personal desarrollado con backend en FastAPI.
+- 📇 **[Portafolio Personal](https://github.com/david-perez-zuniga/Davids-Folio)** - Portafolio de proyecyod.
 - 🎮 **[CodeEnglish](https://github.com/david-perez-zuniga/CodeEnglish)** - Sitio web diseñado para el estudio y práctica del idioma inglés.
 - 👨‍⚖️ **[LexConnect](https://github.com/david-perez-zuniga/LexConnect)** - Plataforma para encontrar a un abogado según tus necesidades.
 - 🏁 **[OnTheWayToTheGoal](https://github.com/david-perez-zuniga/On-the-way-to-the-goal)** - Plataforma donde puedes ponerte una meta, visualizarla y lograrla.
