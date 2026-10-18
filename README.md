@@ -1,7 +1,7 @@
 <div align="center">
 
 # **David Humberto Pérez Zúniga**
-### Backend Developer | Python Developer | Ingeniero de Sistemas
+### Backend Developer | QA Analyst | Ingeniero de Sistemas
 
 <img src="https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-React%20%2F%20TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -44,7 +44,7 @@
 ## 🛠️ Proyectos actuales
 
 - 🛒 **[Iron Gear](https://github.com/david-perez-zuniga/Iron-Gear)** - Plataforma e-commerce completa con arquitectura limpia, flujos transaccionales y seguridad JWT. (FastAPI, PostgreSQL, React).
-- 📇 **[Portafolio Personal](https://github.com/david-perez-zuniga/Davids-Folio)** - Portafolio de proyecyod.
+- 📇 **[Portafolio Personal](https://github.com/david-perez-zuniga/Davids-Folio)** - Portafolio personal.
 - 🎮 **[CodeEnglish](https://github.com/david-perez-zuniga/CodeEnglish)** - Sitio web diseñado para el estudio y práctica del idioma inglés.
 - 👨‍⚖️ **[LexConnect](https://github.com/david-perez-zuniga/LexConnect)** - Plataforma para encontrar a un abogado según tus necesidades.
 - 🏁 **[OnTheWayToTheGoal](https://github.com/david-perez-zuniga/On-the-way-to-the-goal)** - Plataforma donde puedes ponerte una meta, visualizarla y lograrla.
