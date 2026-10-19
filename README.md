@@ -1,7 +1,7 @@
 <div align="center">
 
 # **David Humberto Pérez Zúniga**
-### Backend Developer | QA Analyst | Ingeniero de Sistemas
+### Backend Developer | AI QA Engineer | Ingeniero de Sistemas
 
 <img src="https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-React%20%2F%20TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,6 +31,7 @@
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Helix](https://img.shields.io/badge/Helix_Editor-2b2b2b?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-2b2b2b?style=for-the-badge&logo=linux&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2b2b2b?style=for-the-badge&logo=playwright&logoColor=45BA4B)
 </div>
 
 ## My Stats
