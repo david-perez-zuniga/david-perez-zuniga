@@ -1,7 +1,7 @@
 <div align="center">
 
 # **David Humberto Pérez Zúniga**
-### Backend Developer | AI QA Engineer
+### FullStack Developer | AI QA Engineer
 
 <img src="https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-React%20%2F%20TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
